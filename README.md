@@ -1,4 +1,4 @@
-## Hello there! 🤓
+### Hello there! 🤓
 ### Welcome to my Github repository!
 
 I'm interested in **Data Science**, **Machine Learning**, and **Cryptocurrencies**.

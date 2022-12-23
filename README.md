@@ -1,6 +1,7 @@
 ## Hello there! 🤓
-
 ### Welcome to my Github repository!
+
+I'm interested in **Data Science**, **Machine Learning**, and **Cryptocurrencies**.
 
 <!--
 **cetyz/cetyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
